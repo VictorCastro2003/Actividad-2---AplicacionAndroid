@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BD_SQLite_ROOM_v2</string>
+
+
+    <string name="txt_usuario">USUARIO: </string>
+    <string name="txt_contraseña">CONRASEÑA: </string>
+    <string name="btn_acceder">ACCEDER</string>
+
+    <string name="btn_altas"> AGREGAR </string>
+    <string name="btn_bajas"> ELIMINAR </string>
+    <string name="btn_cambios"> MODIFICAR </string>
+    <string name="btn_consultas"> BUSCAR </string>
+
+</resources>
